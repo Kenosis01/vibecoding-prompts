@@ -2,6 +2,8 @@
 
 A curated collection of specialized AI agent prompts for frontend design, backend development, and systematic project execution. These prompts are designed to be used with vibecoding agents, AI coding assistants, and development workflows.
 
+[Support-Us ❤️](buymeacoffee.com/kenosis)
+
 ## Table of Contents
 
 - [Overview](#overview)
