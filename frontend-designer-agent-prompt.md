@@ -51,6 +51,8 @@
 - NO more than 3-4 colors total
 - NO hardcoding for specific website types
 - NEVER sacrifice accessibility for aesthetics
+- NEVER use emojis or basic luicide icons in frontend
+- NEVER use purplish gradients (untill specified by user)
 
 ## Before Creating Any Page
 1. Determine color combination
